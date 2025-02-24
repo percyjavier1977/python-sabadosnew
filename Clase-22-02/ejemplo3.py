@@ -17,5 +17,5 @@ else:
     if numero > 0:
         print("Positivo")
     else:
-        print("negativo") 
+        print("Negativo") 
 

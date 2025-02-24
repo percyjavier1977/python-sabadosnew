@@ -27,3 +27,10 @@ if bandera !=1:
 
 else:
     print("Dia no existe")
+    
+print()    
+    
+if ndia >=1 and ndia <=7:
+    print("Ingresó el dia:",dia.upper())
+else:
+    print("Dia no existe")
